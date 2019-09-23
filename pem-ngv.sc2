@@ -4,6 +4,8 @@ J=ķņģ
 Z=bcdfghjklmnpqrstvwzŋǧǩɂäeiıouüķņģ
 K=kŋg
 R=lrz
+B=aäıou
+
 
 
 
@@ -47,8 +49,8 @@ C//#_C
 ǧ/ģ/_[eiü]
 ǧ/ģ/_C
 
-k/q/_V
-g/h/_V
+k/q/_B
+g/h/_B
 ǩ/k/_
 ǧ/g/_
 
@@ -68,3 +70,5 @@ ii/ie/_
 ı/i/_
 
 j/y/_
+
+
